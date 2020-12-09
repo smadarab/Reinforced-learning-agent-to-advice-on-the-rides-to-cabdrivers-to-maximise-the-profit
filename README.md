@@ -1,6 +1,6 @@
 # Reinforced-learning-agent-to-advice-on-the-rides-to-cabdrivers-to-maximise-the-profit
 
-<Bold>The Need for Choosing the 'Right' Requests</Bold>
+- The Need for Choosing the 'Right' Requests
 Most drivers get a healthy number of ride requests from customers throughout the day. But with the recent hikes in electricity prices (all cabs are electric), many drivers complain that although their revenues are gradually increasing, their profits are almost flat. Thus, it is important that drivers choose the 'right' rides, i.e. choose the rides which are likely to maximise the total profit earned by the driver that day. 
 
  
