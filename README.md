@@ -1,4 +1,6 @@
 # Reinforced-learning-agent-to-advice-on-the-rides-to-cabdrivers-to-maximise-the-profit
+![reinforcement_diagram-1-2](https://user-images.githubusercontent.com/62444992/101615174-d36fe180-3a33-11eb-92fe-2e713e77905c.png)
+
 
 ## The Need for Choosing the 'Right' Requests
 
